@@ -1,0 +1,59 @@
+folium.Map: 지도 객체를 생성합니다.
+
+folium.FeatureGroup: 여러 마커를 그룹화하거나 레이어를 관리합니다.
+
+folium.Marker: 지도에 마커를 추가합니다.
+
+folium.CircleMarker: 원 모양 마커를 추가합니다.
+
+folium.Circle: 원을 추가합니다.
+
+folium.PolyLine: 지도 위에 선을 추가합니다.
+
+folium.Polygon: 지도 위에 다각형을 추가합니다.
+
+folium.Rectangle: 지도 위에 직사각형을 추가합니다.
+
+folium.RegularPolygonMarker: 정다각형 모양 마커를 추가합니다.
+
+folium.Icon: 마커의 아이콘을 지정합니다.
+
+folium.Popup: 팝업을 추가합니다.
+
+folium.Tooltip: 툴팁을 추가합니다.
+
+folium.LayerControl: 레이어 컨트롤을 추가합니다.
+
+folium.TileLayer: 사용자 정의 타일 레이어를 추가합니다.
+
+folium.WmsTileLayer: WMS 타일 레이어를 추가합니다.
+
+folium.ImageOverlay: 이미지 오버레이를 추가합니다.
+
+folium.VideoOverlay: 비디오 오버레이를 추가합니다.
+
+folium.DivIcon: 사용자 지정 Div 아이콘을 추가합니다.
+
+folium.GeoJson: GeoJSON 데이터를 추가하고 스타일을 지정합니다.
+
+folium.RegularPolygonMarker: 다각형 모양의 마커를 추가합니다.
+folium.Icon: 마커의 아이콘을 지정합니다.
+folium.DivIcon: 사용자 지정 Div 아이콘을 추가합니다.
+folium.Html: HTML 요소를 팝업으로 추가합니다.
+folium.Image: 이미지를 팝업으로 추가합니다.
+folium.Tooltip: 툴팁을 추가합니다.
+folium.LatLngPopup: 클릭한 위치의 좌표를 팝업으로 표시합니다.
+folium.Popup: 팝업을 추가합니다.
+folium.Vega: Vega 및 Vega-Lite 시각화를 추가합니다.
+folium.Vincent: Vincent 시각화를 추가합니다.
+folium.WmsTileLayer: WMS 타일 레이어를 추가합니다.
+folium.ImageOverlay: 이미지 오버레이를 추가합니다.
+folium.VideoOverlay: 비디오 오버레이를 추가합니다.
+
+folium.Choropleth: 지도 위에 분포를 시각화합니다.
+
+folium.LayerGroup: 여러 레이어를 그룹화하거나 레이어를 관리합니다.
+
+folium.FeatureMixin: 마커와 팝업을 그룹으로 묶는 믹스인 클래스입니다.
+
+folium.LatLngPopup: 클릭한 위치의 좌표를 팝업으로 표시합니다.
